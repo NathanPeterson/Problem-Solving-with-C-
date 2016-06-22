@@ -4,7 +4,7 @@ using namespace std;
 int main(){
   int number_of_pods, peas_per_pod, total_peas;
 
-  cout << "\n\t############# STARTING PROBLEM 1.1 #############\n\n";
+  cout << "\n\t############# STARTING PROBLEM 1.3 #############\n\n";
 
   cout << "Hello!\n\n";
 
@@ -29,7 +29,7 @@ int main(){
 
   cout << "\nGood Bye!.\n";
 
-  cout << "\n\t############# ENDING PROBLEM 1.1 #############\n\n";
+  cout << "\n\t############# ENDING PROBLEM 1.3 #############\n\n";
 
   return 0;
 }

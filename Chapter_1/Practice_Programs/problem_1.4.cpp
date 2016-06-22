@@ -4,7 +4,7 @@ using namespace std;
 int main(){
   int number_of_pods, peas_per_pod, total_peas;
 
-  cout << "\n\t############# STARTING PROBLEM 1.1 #############\n\n";
+  cout << "\n\t############# STARTING PROBLEM 1.4 #############\n\n";
 
   cout << "Press return after entering a number.\n";
   cout << "Enter the number of pods:\n";
@@ -25,7 +25,7 @@ int main(){
   cout << total_peas;
   cout << " peas in all the pods.\n";
 
-  cout << "\n\t############# ENDING PROBLEM 1.1 #############\n\n";
+  cout << "\n\t############# ENDING PROBLEM 1.4 #############\n\n";
 
   return 0;
 }
