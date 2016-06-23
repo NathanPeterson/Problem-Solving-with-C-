@@ -10,7 +10,7 @@ using namespace std;
 
 int main(){
   cout << "\n\t############# STARTING PROBLEM ##.## #############\n\n";
-  cout << "\n\tProblem: "
+  cout << "\n\tDescription: "
   cout << "\n"
 
   cout << "\n\t############# ENDING PROBLEM ##.## #############\n\n";
